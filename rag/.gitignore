@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata outputs
+*.ipynb
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# Model files and large binaries
+*.pt
+*.bin
+*.h5
+*.ckpt
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python test cache
+.pytest_cache/
+
+# VS Code settings (optional)
+.vscode/
